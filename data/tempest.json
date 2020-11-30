@@ -1,0 +1,13 @@
+{
+	"sitename": "Tempest",
+	"navlink1": "Home",
+	"navlink2": "About",
+	"navlink3": [
+		"Services",
+		"Team",
+		"Contact"
+	],
+	"p3_image": "https://cdn.jsdelivr.net/gh/stevenmarc/tempest@2b8256f0d72513d36acba1d4f26e72882855906b/data/images/DSCF1538.jpg",
+	"p3_headline": "Help",
+	"p3_content": "\n          Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        "
+}
