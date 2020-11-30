@@ -9,5 +9,8 @@
 	],
 	"p3_image": "https://cdn.jsdelivr.net/gh/stevenmarc/tempest@2b8256f0d72513d36acba1d4f26e72882855906b/data/images/DSCF1538.jpg",
 	"p3_headline": "Help",
-	"p3_content": "\n          Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        "
+	"p3_content": "\n          Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        ",
+	"p1_image": "https://picsum.photos/400",
+	"p1_headline": "CSS Forest: Bootstrap",
+	"p1_content": "<p>How much can I edit.</p>\n<p>The problem is with editing.</p>\n<p>&nbsp;</p>\n<p>Pretty cool.</p>\n<p>&nbsp;</p>"
 }
